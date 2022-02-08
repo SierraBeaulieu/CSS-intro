@@ -15,9 +15,11 @@ body {
     color:blanchedalmond
 }
 
-.css-intro-image {
+.css-intro-button {
     background-color: burlywood;
-    padding: 16pt;
+    padding: 16pt 12px;
+    
+
 }
 
   
